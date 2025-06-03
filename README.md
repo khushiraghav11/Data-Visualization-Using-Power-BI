@@ -1,1 +1,1 @@
-# Data-Visualization-Using-Power-BI
+I was not familiar with it so did basics.
